@@ -8,6 +8,14 @@ Papers for knowledge distillation for NLP and ASR (mainly focus on BERT-like mod
 
 🎵 represents ASR.
 
+## basic papers
+
+* **Response-Based Knowledge** [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
+
+* **Feature-Based Knowledge** [FitNets: Hints for Thin Deep Nets](https://arxiv.org/abs/1412.6550)
+
+* **Relation-Based Knowledge** [A gift from knowledge distillation: Fast optimization, network minimization and transfer learning](https://openaccess.thecvf.com/content_cvpr_2017/html/Yim_A_Gift_From_CVPR_2017_paper.html)
+
 ## 2019
 
 * 📕 PKD: [Patient Knowledge Distillation for BERT Model Compression](https://arxiv.org/abs/1908.09355)
