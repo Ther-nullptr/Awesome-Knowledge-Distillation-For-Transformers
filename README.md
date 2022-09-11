@@ -34,10 +34,14 @@ Papers for knowledge distillation for NLP and ASR (mainly focus on BERT-like mod
 
 * 📕 ALP-KD: [ALP-KD: Attention-Based Layer Projection for Knowledge Distillation](https://arxiv.org/abs/2012.14022)
 
+* 📕 Co-DIR: [Contrastive Distillation on Intermediate Representations for Language Model Compression](https://arxiv.org/abs/2009.14167)
+
 
 ## 2021
 
 * 🌟🎵 DistilHubert: [DistilHuBERT: Speech Representation Learning by Layer-wise Distillation of Hidden-unit BERT](https://arxiv.org/abs/2110.01900)
+
+* 📕 RAIL-KD: [RAIL-KD: RAndom Intermediate Layer Mapping for Knowledge Distillation](https://arxiv.org/abs/2109.10164)
 
 ## 2022
 
