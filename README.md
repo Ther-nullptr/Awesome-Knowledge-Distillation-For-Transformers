@@ -16,15 +16,16 @@ Papers for knowledge distillation for NLP and ASR (mainly focus on BERT-like mod
 
 * 🌟📕 TinyBERT: [TinyBERT: Distilling BERT for Natural Language Understanding](https://arxiv.org/abs/1909.10351)
 
+* 📕 IR-KD: [Knowledge Distillation from Internal Representations](https://arxiv.org/abs/1910.03723v2)
+
 ## 2020
-
-
 
 * 📕 MobileBERT: [MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices](https://arxiv.org/abs/2004.02984)
 
 * 📕 CKD: [Why Skip If You Can Combine: A Simple Knowledge Distillation Technique for Intermediate Layers](https://arxiv.org/abs/2010.03034)
 
 * 📕 ALP-KD: [ALP-KD: Attention-Based Layer Projection for Knowledge Distillation](https://arxiv.org/abs/2012.14022)
+
 
 ## 2021
 
