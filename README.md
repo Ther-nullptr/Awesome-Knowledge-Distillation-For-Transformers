@@ -33,6 +33,8 @@ Papers for knowledge distillation for NLP and ASR (mainly focus on BERT-like mod
 
 ## 2022
 
+* 📕 CoFi: [Structured Pruning Learns Compact and Accurate Models](https://arxiv.org/abs/2204.00408)
+
 * 🎵 FitHubert: [FitHuBERT: Going Thinner and Deeper for Knowledge Distillation of Speech Self-Supervised Learning](https://arxiv.org/abs/2207.00555)
 
 * 🎵 LightHubert: [LightHuBERT: Lightweight and Configurable Speech Representation Learning with Once-for-All Hidden-Unit BERT](https://arxiv.org/abs/2203.15610)
